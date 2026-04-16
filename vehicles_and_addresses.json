@@ -1,0 +1,81 @@
+{
+  "vehicles": [
+    {
+      "id": "281474979923966",
+      "name": "The GT",
+      "make": "BMW",
+      "model": "328IX",
+      "year": "2014",
+      "licensePlate": "LPG0003",
+      "vin": "WBA8Z5C52FD672024",
+      "serial": "GZAY7RK6GK",
+      "status": "Active"
+    },
+    {
+      "id": "281474981840272",
+      "name": "GH32-U5B-9XE",
+      "serial": "GH32U5B9XE",
+      "status": "Active"
+    },
+    {
+      "id": "281474984041296",
+      "name": "Forester",
+      "make": "SUBARU",
+      "model": "FORESTER",
+      "year": "2020",
+      "vin": "JF2SKAXC3LH496962",
+      "status": "Active"
+    },
+    {
+      "id": "281474993427623",
+      "name": "The Y",
+      "make": "TESLA",
+      "model": "MODEL Y",
+      "year": "2023",
+      "serial": "G4UJ7Y7KJN",
+      "status": "Active"
+    },
+    {
+      "id": "281474994125237",
+      "name": "GUZ8-ZTZ-5FY",
+      "status": "Active"
+    },
+    {
+      "id": "281475002209282",
+      "name": "Truck [CA <-> US Route]",
+      "serial": "GDP8U2VH9V",
+      "status": "Active"
+    }
+  ],
+  "addresses": [
+    {
+      "id": "28807403",
+      "name": "Terminal",
+      "formattedAddress": "6107 E Riverside Dr, Austin, TX 78741, USA",
+      "latitude": 30.2255099,
+      "longitude": -97.70533739999999,
+      "radiusMeters": 250
+    },
+    {
+      "id": "28807409",
+      "name": "Customer1",
+      "formattedAddress": "4136 E 12th St, Austin, TX 78721, USA",
+      "latitude": 30.2792803,
+      "longitude": -97.68748509999999,
+      "radiusMeters": 250
+    },
+    {
+      "id": "28807412",
+      "name": "Homeslice",
+      "formattedAddress": "501 E 53rd St, Austin, TX 78751, USA",
+      "latitude": 30.3159643,
+      "longitude": -97.71846049999999,
+      "radiusMeters": 250
+    }
+  ],
+  "summary": {
+    "totalVehicles": 6,
+    "totalAddresses": 62,
+    "addressesSample": 3
+  }
+}

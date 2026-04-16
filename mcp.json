@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "samsara": {
+      "url": "https://sammcp.playground.samsaradev.io/mcp",
+      "env": {
+        "SAMSARA_API_TOKEN": "${SAMSARA_API_TOKEN}"
+      },
+      "disabled": false
+    }
+  }
+}
